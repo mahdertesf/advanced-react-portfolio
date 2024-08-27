@@ -74,6 +74,3 @@ const Header = () => {
         </HStack>
       </Box>
     </Box>
-  );
-};
-export default Header;
